@@ -11,7 +11,12 @@
     "eslint": "^7.32.0",
     "eslint-config-custom": "workspace:*",
     "prettier": "latest",
-    "turbo": "latest"
+    "turbo": "latest",
+    "tailwindcss": "^3.3.3",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.27",
+    "prettier-plugin-tailwindcss": "^0.5.3",
+    "tailwindcss-animate": "^1.0.6"
   },
   "packageManager": "pnpm@8.6.10",
   "name": "FlixFix"
