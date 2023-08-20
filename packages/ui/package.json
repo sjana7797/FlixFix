@@ -1,0 +1,16 @@
+{
+  "name": "ui",
+  "dependencies": {
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.0.0",
+    "lucide-react": "^0.268.0",
+    "tailwind-merge": "^1.14.0",
+    "tailwindcss-animate": "^1.0.6",
+    "tsconfig": "workspace:*"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.3",
+    "prettier-plugin-tailwindcss": "^0.2.8",
+    "autoprefixer": "^10.4.14"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "supabase-db",
+  "scripts": {
+    "supabase:start": "supabase start",
+    "supabase:stop": "supabase stop"
+  }
+}
